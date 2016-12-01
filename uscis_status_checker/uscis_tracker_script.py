@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 import requests
 from bs4 import BeautifulSoup
-from Tkinter import *
 import json
 import re
 

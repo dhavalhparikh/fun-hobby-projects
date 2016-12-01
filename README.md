@@ -16,6 +16,9 @@ to a Slack channel. For eg. If Maker then Slack
 
 Do read the comments in the script!
 
+### Python package requirements
+BeautifulSoup - sudo pip install beautifulsoup
+Requests - sudo pip install requests
 
 ## mqtt client
 An MQTT based client to listen to specific topics published by a MQTT broker.
