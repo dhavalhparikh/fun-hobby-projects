@@ -17,9 +17,13 @@ to a Slack channel. For eg. If Maker then Slack
 Do read the comments in the script!
 
 ### Python package requirements
-BeautifulSoup - ```sudo pip install beautifulsoup```
-
-Requests - ```sudo pip install requests```
+BeautifulSoup - `sudo pip install beautifulsoup`
+Requests - `sudo pip install requests`
 
 ## mqtt client
 An MQTT based client to listen to specific topics published by a MQTT broker.
+
+## Beebotte REST API tester
+A simple python script to test the [Beebotte](https://beebotte.com/) REST API.
+Replace the `API_KEY` and `SECRET_KEY` with your own keys.
+Also change the `channel` and `resource` as defined in your dashboard.
